@@ -1,6 +1,5 @@
 ## About me
-- I am Alina, 3rd course NSU&SD student
-- **Golang** & **Java** backend developer
+I am NSU&SD student from Novosibirsk and **Golang** & **Java** backend developer
 - I love Go and Hollow Knight
 - Currently learning everything i can learn
 <!--
